@@ -1,0 +1,262 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin: 0 auto;
+	padding: 0;
+}
+
+.title{
+	float: left;
+	height: 100px;
+	width: 300px;
+	background-image: url("../images/stone_andesite_smooth.png");
+	font-family: "microsoft hayei";
+	font-size: 60px;
+	text-align: center;
+	line-height: 100px;
+	color:#1A1A1A;
+	margin: 0 auto;
+	
+}
+
+.nav li{
+	list-style: none;
+	margin: 0 auto;
+	float: left;
+	height: 100px;
+	width: 100px;
+	font-family: "microsoft hayei";
+	font-size: 30px;
+	font-weight: 1200;
+	text-align: center;
+	line-height: 100px;
+	color: #232021;
+	background-image: url("../images/stonebrick_carved.png");
+}
+.topleft{
+	height: 100px;
+	width: 100px;
+	float: left;
+	list-style: none;
+		cursor: pointer;
+	position: fixed;
+	background-image: url("../images/crafting_table_front.png");
+	right: 30px;
+}
+.ender{
+	height: 100px;
+	width: 100px;
+	float: left;
+	list-style: none;
+		cursor: pointer;
+	position: fixed;
+	background-image:url("../images/ender_chest_front.png") ;
+	right: 30px;
+	top:130px;
+}
+
+.bood {
+	height: 2000px;
+	margin: 0 auto;
+	width: 100%;
+	background-color:#B4B4B4;
+}
+
+.box1 {
+	height: 675px;
+	width:1200px;
+	margin: 0 auto;
+	position: absolute;
+	top:200px;
+	left:400px;
+	background-image: url("../images/pan-yunbo-EgL0EtzL0Wc-unsplash.png");
+}
+
+.boddy{
+	background-image: url("../images/stone.png");
+}
+.box2 {
+	left:400px;
+	top:900px;
+	height: 400px;
+	width: 800px;
+	position: absolute;
+	background-image: url("../images/johny-goerend-t1j-1GdWNgo-unsplash.png");
+}
+.box3 {
+	left:1225px;
+	top:900px;
+	height: 400px;
+	width: 375px;
+	position: absolute;
+	background-image: url("../images/333.png");
+}
+
+.bottom{
+	position: absolute;
+	width: 100%;
+	top:4000px;
+	height: 100px;
+	background-image: url("../images/obsidian.png");
+}
+.door {
+	height: 400px;
+	width: 400px;
+	float: left;
+	position: absolute;
+	cursor: pointer;
+	top: 3600px;
+	left: 802px;
+	background-image: url("../images/door.png");
+}
+.door2{
+	height: 300px;
+	width: 300px;
+	float: left;
+	position: absolute;
+	cursor: pointer;
+	top: 3000px;
+	left: 802px;
+	background-image: url("../images/endframe_top.png");
+}
+
+.doorsign{
+	height:150px;
+	width: 300px;
+	position: absolute;
+	float: left;
+	top: 3700px;
+	left:400px;
+	background-image: url("../images/sign_crimson.png");
+	text-align: center;
+	font-family: "microsoft yahei";
+	font-size: 30px;
+	font-weight: 900;
+	line-height: 100px;
+}
+.doorsign2{
+	height:150px;
+	width: 300px;
+	position: absolute;
+	float: left;
+	top: 3000px;
+	left:400px;
+	background-image: url("../images/sign.png");
+	text-align: center;
+	font-family: "microsoft yahei";
+	font-size: 30px;
+	font-weight: 900;
+	line-height: 100px;
+}
+.url{
+	height: 100%;
+	width: 100%;
+}
+.vedio{
+	width: 1230px;
+	height: 250px;
+	position: absolute;
+	top:1800px;
+	left:400px;
+}
+.ve{
+	
+	height: 200px;
+	float:left;
+	width: 180px;
+	margin-right: 25px;
+/*	background-color: aqua;*/
+}
+
+.home{
+	float: left;
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 400px;
+	top:2200px;
+}
+.homep{
+	float: left;
+	position: absolute;
+	width: 300px;
+	height: 100px;
+	left: 500px;
+	top:2200px;
+		text-align: center;
+	font-family: "microsoft yahei";
+	font-size: 30px;
+	font-weight: 900;
+	line-height: 100px;
+}
+.homemap{float: left;
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 900px;
+	top:2200px;}
+
+.img1{
+	left:800px;
+	top:1325px;
+	height: 400px;
+	width: 800px;
+	position: absolute;
+}
+.img2{
+	left:400px;
+	top:1325px;
+	height: 375px;
+	width: 375px;
+	position: absolute;
+}
+.img3{
+	left:400px;
+	top:2325px;
+	height: 375px;
+	width: auto;
+	position: absolute;
+}
+.img4{
+	left:1100px;
+	top:2325px;
+	height: 375px;
+	width: 500px;
+	position: absolute;
+}.img5{
+	left:400px;
+	top:2725px;
+	height: 250px;
+	width: auto;
+	position: absolute;
+}.img6{
+	left:880px;
+	top:2725px;
+	height: 250px;
+	width: auto;
+	position: absolute;
+}.img7{
+	left:1298px;
+	top:2725px;
+	height: 250px;
+	width: 300px;
+	position: absolute;
+}
+.signp{			font-family: "microsoft yahei";
+			font-size: 30px;
+			text-align: center;
+			color:#222184;
+			font-weight: 600;
+			position: absolute;
+	top:1450px;
+	left:200px;
+}
+
+
+
+
+
+
+
+
