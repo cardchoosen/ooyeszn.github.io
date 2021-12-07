@@ -197,8 +197,61 @@ body{
 	left: 900px;
 	top:2200px;}
 
-
-
+.img1{
+	left:800px;
+	top:1325px;
+	height: 400px;
+	width: 800px;
+	position: absolute;
+}
+.img2{
+	left:400px;
+	top:1325px;
+	height: 375px;
+	width: 375px;
+	position: absolute;
+}
+.img3{
+	left:400px;
+	top:2325px;
+	height: 375px;
+	width: auto;
+	position: absolute;
+}
+.img4{
+	left:1100px;
+	top:2325px;
+	height: 375px;
+	width: 500px;
+	position: absolute;
+}.img5{
+	left:400px;
+	top:2725px;
+	height: 250px;
+	width: auto;
+	position: absolute;
+}.img6{
+	left:880px;
+	top:2725px;
+	height: 250px;
+	width: auto;
+	position: absolute;
+}.img7{
+	left:1298px;
+	top:2725px;
+	height: 250px;
+	width: 300px;
+	position: absolute;
+}
+.signp{			font-family: "microsoft yahei";
+			font-size: 30px;
+			text-align: center;
+			color:#222184;
+			font-weight: 600;
+			position: absolute;
+	top:1450px;
+	left:200px;
+}
 
 
 
